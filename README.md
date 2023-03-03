@@ -1,14 +1,14 @@
-Tornike's GitHub Resume 🚀
+Tornike’s GitHub Resume 🚀
 Introduction 👋
-Hi there, I'm Tornike, a beginner frontend developer from Georgia 🇬🇪. I'm passionate about creating beautiful and responsive web pages using HTML and CSS. I'm also very motivated to learn new things and languages.
+Hi there, I’m Tornike, a beginner frontend developer from Georgia 🇬🇪. I’m passionate about creating beautiful and responsive web pages using HTML and CSS. I’m also very motivated to learn new things and languages.
 
 Skills 🛠️
-Here are the programming languages and tools I'm proficient in:
+Here are the programming languages and tools I’m proficient in:
 
 HTML 🌐
 CSS 🎨
 Projects 🚀
-Here are some of the projects I've worked on:
+Here are some of the projects I’ve worked on:
 
 Project 1 🌟: A responsive website that I designed using HTML and CSS.
 Project 2 🌟: An e-commerce website that I built using HTML, CSS, and JavaScript.
